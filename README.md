@@ -2,8 +2,9 @@
 
 I'm a passionate **Full Stack Developer** who loves turning ideas into reality through code.  
 I specialize in modern web technologies and enjoy building scalable, user-friendly applications.
+My goal is to make meaningful contributions to real-world projects, continue learning from experienced professionals, and develop into a proficient full-stack developer.
 
-- 🧑‍💻 Currently working on [The Terminal Viet Nam](#) – A full-stack social media platform
+
 - 🌱 Learning **Advanced React Patterns** and **System Design**
 - 💬 Ask me about **Next.js, NestJS, TypeScript**, and **Modern Web Development**
 - 📫 Reach me at: [tanminh0304@gmail.com](mailto:tanminh0304@gmail.com)
@@ -36,3 +37,12 @@ I specialize in modern web technologies and enjoy building scalable, user-friend
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+## 🧠 Current Focus
+
+- 🔥 Building scalable microservices architecture  
+- 🚀 Implementing advanced React patterns and performance optimizations  
+- 🧠 Learning system design and distributed systems  
+- 🎨 Creating beautiful, accessible user interfaces  
+- 📚 Contributing to open source projects
